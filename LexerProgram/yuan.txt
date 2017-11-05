@@ -1,0 +1,13 @@
+public class Text{  
+    private String @aa = "";  
+    private int a = 111;  
+    private int b = 2;  
+    private int c = 3;  
+    public static void main(String[] args){  
+        double 0a = 1;  
+        int s = 0 ;  
+        s = a + b + c;  
+        if(s == 23)  
+        System.out.println(s);  
+    }  
+}  
